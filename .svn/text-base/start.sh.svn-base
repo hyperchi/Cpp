@@ -1,0 +1,42 @@
+#!/bin/bash
+#
+# ChinaOpen 2008 sample start script for 3D Simulation Competitions
+#
+
+AGENT_BINARY=AmoiensisNQ
+
+killall -9 $AGENT_BINARY
+
+./$AGENT_BINARY -h $1 -n 1 > stdout 2> stderr &
+
+sleep 2
+
+./$AGENT_BINARY -h $1 -n 2 > stdout 2> stderr &
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 3 > stdout 2> stderr &  
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 4 > stdout 2> stderr &    
+
+sleep 2
+
+./$AGENT_BINARY -h $1 -n 5 > stdout 2> stderr &     
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 6 > stdout 2> stderr &      
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 7 > stdout 2> stderr &     
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 8 > stdout 2> stderr &     
+
+sleep 2 
+
+./$AGENT_BINARY -h $1 -n 9 > stdout 2> stderr &

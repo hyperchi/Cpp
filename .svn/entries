@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="20"
+   name=""
+   committed-date="2011-08-19T15:40:46.885183Z"
+   url="svn://192.168.0.66/robocup3d/Robocup%203D"
+   last-author="robocup"
+   kind="dir"
+   uuid="ba6b2bb3-a6e6-4caa-a774-162b188549fb"
+   repos="svn://192.168.0.66/robocup3d"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="MotionDribble.h"
+   text-time="2011-08-19T15:54:07.250000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="8c3858e1c6046643bab266e084760257"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.062500Z"/>
+<entry
+   committed-rev="3"
+   name="Agent.cpp"
+   text-time="2011-08-19T15:54:07.250000Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="670f52d6a1c9b35b9d276351ddcf8195"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.078125Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup3D.cpp"
+   text-time="2011-08-19T15:54:07.265625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="178d57a7fb50dbdef5e389f906c6f7a2"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.093750Z"/>
+<entry
+   committed-rev="7"
+   name="BasicWalk.cpp"
+   text-time="2011-08-19T15:54:07.281250Z"
+   committed-date="2011-08-18T08:36:40.683729Z"
+   checksum="fc245f5a10b062d9dcacd538443d075d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.109375Z"/>
+<entry
+   committed-rev="1"
+   name="action.dat"
+   text-time="2011-08-19T15:54:07.296875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="6064c2405f87a1635e0fe6d792253622"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.125000Z"/>
+<entry
+   committed-rev="10"
+   name="HumanGoto.h"
+   text-time="2011-08-19T15:54:07.312500Z"
+   committed-date="2011-08-19T03:25:05.946681Z"
+   checksum="49d9c3a55bf5b80d0ec97b6e9a422a1d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.140625Z"/>
+<entry
+   committed-rev="1"
+   name="worldModel.conf"
+   text-time="2011-08-19T15:54:07.328125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="bea4193f837e9de852dbb046a568a75a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.156250Z"/>
+<entry
+   committed-rev="1"
+   name="CommandQuene.h"
+   text-time="2011-08-19T15:54:07.328125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="86981afe5eb7d9c90b3e6a54e45ec0b0"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.171875Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup 3D.vcproj.ROBOCUP.Leo.user"
+   text-time="2011-08-19T15:54:07.343750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="1c51f2aa4f4501a6c1446df4668dcf0c"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.187500Z"/>
+<entry
+   committed-rev="1"
+   name="ActionTrans.cpp"
+   text-time="2011-08-19T15:54:07.359375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ad7ebdf789e3ad1fc2e65314009a59fc"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.250000Z"/>
+<entry
+   committed-rev="1"
+   name="ConfFileRead.h"
+   text-time="2011-08-19T15:54:07.375000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="b16363d67f5c61a983a0f63e431aa5e4"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.265625Z"/>
+<entry
+   committed-rev="9"
+   name="Kick.h"
+   text-time="2011-08-19T15:54:07.390625Z"
+   committed-date="2011-08-19T03:12:46.258344Z"
+   checksum="5d6a032f1bf5b772300e39055baed0f5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.281250Z"/>
+<entry
+   committed-rev="1"
+   name="JointControl.h"
+   text-time="2011-08-19T15:54:07.406250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="9995e45b1a6c285ec52483422ebe69eb"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.296875Z"/>
+<entry
+   committed-rev="1"
+   name="linuxthread.h"
+   text-time="2011-08-19T15:54:07.421875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d511f8e86c00c9af8b1161f175562d15"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.328125Z"/>
+<entry
+   committed-rev="1"
+   name="MotionGoto.cpp"
+   text-time="2011-08-19T15:54:07.437500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="35fb63213086a3909f915f7fa8958082"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.343750Z"/>
+<entry
+   committed-rev="1"
+   name="WorldModelParse.cpp"
+   text-time="2011-08-19T15:54:07.484375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="f9baa08b2b40e9ec557278af37ee3aa0"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.390625Z"/>
+<entry
+   committed-rev="1"
+   name="Agent.h"
+   text-time="2011-08-19T15:54:07.453125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="2fc81c70c4815bb3bc4fbc42d1f05ac5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.375000Z"/>
+<entry
+   committed-rev="1"
+   name="Matrix.cpp"
+   text-time="2011-08-19T15:54:07.515625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="35e242f4465900522591286095ae7a45"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.406250Z"/>
+<entry
+   committed-rev="20"
+   name="Motion.cpp"
+   text-time="2011-08-19T15:54:07.531250Z"
+   committed-date="2011-08-19T15:40:46.885183Z"
+   checksum="0da13f17a9bb81e47aa46460a84ba5c0"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.437500Z"/>
+<entry
+   committed-rev="1"
+   name="SitKick.h"
+   text-time="2011-08-19T15:54:07.546875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="faef431e651298f3ebfe38de1839108f"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.453125Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup 3D.vcproj.WWW-A4494D13088.Leo.user"
+   text-time="2011-08-19T15:54:07.578125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="127031dd42a02503f26a9f9d10256df1"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.500000Z"/>
+<entry
+   committed-rev="1"
+   name="Communication.h"
+   text-time="2011-08-19T15:54:07.562500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="84d5f956ae3ed898f38287fd70e57523"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.484375Z"/>
+<entry
+   committed-rev="1"
+   name="Object.h"
+   text-time="2011-08-19T15:54:07.593750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="3aa124484902c277bbafce0a8a8fd2b8"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.531250Z"/>
+<entry
+   committed-rev="12"
+   name="ActionData.h"
+   text-time="2011-08-19T15:54:07.609375Z"
+   committed-date="2011-08-19T06:58:52.737101Z"
+   checksum="f0e0306143aefd9ef67f7fd6b37321b5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.609375Z"/>
+<entry
+   committed-rev="1"
+   name="coach.cpp"
+   text-time="2011-08-19T15:54:07.625000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="7c3d5f06aeb37cf8619f7bbba7079ce2"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.625000Z"/>
+<entry
+   committed-rev="1"
+   name="Timer.cpp"
+   text-time="2011-08-19T15:54:07.640625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="397c67f62fed0bbdae7cfb06832bcd16"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.640625Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup 3D.vcproj"
+   text-time="2011-08-19T15:54:07.656250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d314c2a918910a70b8f95c1bde7038b8"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.671875Z"/>
+<entry
+   committed-rev="11"
+   name="Situation.h"
+   text-time="2011-08-19T15:54:07.687500Z"
+   committed-date="2011-08-19T03:42:41.623434Z"
+   checksum="06990e735a15e2607a8d8d7fc9e8bf7a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.718750Z"/>
+<entry
+   committed-rev="1"
+   name="Hear.h"
+   text-time="2011-08-19T15:54:07.671875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d073744ef4efdb0d79b7df2bf6683d5d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.687500Z"/>
+<entry
+   committed-rev="1"
+   name="SitPass.cpp"
+   text-time="2011-08-19T15:54:07.718750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="60dddbe43a7dd0ceea9c2d2d0a24f46a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.734375Z"/>
+<entry
+   committed-rev="1"
+   name="Obstacle.cpp"
+   text-time="2011-08-19T15:54:07.718750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="a4c71b99b44ea42bfded8ccb9dc2e4eb"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.750000Z"/>
+<entry
+   committed-rev="1"
+   name="genmakefile.sh"
+   text-time="2011-08-19T15:54:07.734375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="58e518c072c6521f11a07cf6291e4f6a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.765625Z"/>
+<entry
+   committed-rev="1"
+   name="Encryption.h"
+   text-time="2011-08-19T15:54:07.750000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d788bd72c26b041d44c10eeed7310745"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.765625Z"/>
+<entry
+   committed-rev="1"
+   name="MotionGoto.h"
+   text-time="2011-08-19T15:54:07.765625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="4580d3a61313454a468a5406f4b33e34"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.781250Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup 3D.vcproj.20100405-1936.Administrator.user"
+   text-time="2011-08-19T15:54:07.781250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="3cad50eeb0d8e63e6d9d9a6d5bd56b51"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.781250Z"/>
+<entry
+   committed-rev="1"
+   name="HumanoidControl.h"
+   text-time="2011-08-19T15:54:07.796875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="702bdd3e8a6e3cc673f586a4804f6d7b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.796875Z"/>
+<entry
+   committed-rev="1"
+   name="Vision.h"
+   text-time="2011-08-19T15:54:07.812500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="8c850f627a0d0dcb1f3af2d6248039b3"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.812500Z"/>
+<entry
+   committed-rev="1"
+   name="MotionKick.h"
+   text-time="2011-08-19T15:54:07.828125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="c9a3b3d9ee2a30e169870431b8e620b4"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.812500Z"/>
+<entry
+   committed-rev="1"
+   name="SmartGoto.cpp"
+   text-time="2011-08-19T15:54:07.859375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ec953d6efc6b84ea5b063af1f239ef15"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.828125Z"/>
+<entry
+   committed-rev="20"
+   name="Situation.cpp"
+   text-time="2011-08-19T15:54:07.859375Z"
+   committed-date="2011-08-19T15:40:46.885183Z"
+   checksum="f5a0bb5272a25254affbe125cae6f8dc"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.843750Z"/>
+<entry
+   committed-rev="1"
+   name="Hear.cpp"
+   text-time="2011-08-19T15:54:07.875000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="2df399c761d432deef04dfbfdb93cbd5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.859375Z"/>
+<entry
+   committed-rev="1"
+   name="SitUnitSquare.cpp"
+   text-time="2011-08-19T15:54:07.890625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e6bb9d64abb88a43e902c69f154a116c"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.875000Z"/>
+<entry
+   committed-rev="1"
+   name="SitRun.cpp"
+   text-time="2011-08-19T15:54:07.906250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="69356ca1cf71b8d1db89d7b490d5e9d8"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.875000Z"/>
+<entry
+   committed-rev="1"
+   name="BasicConfigure.h"
+   text-time="2011-08-19T15:54:07.921875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="1150bf6724abff01d10a0821e860e90f"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.890625Z"/>
+<entry
+   committed-rev="1"
+   name="RunPosition.cpp"
+   text-time="2011-08-19T15:54:07.937500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="716c697ad98177371b20eaf0181e1a74"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.906250Z"/>
+<entry
+   committed-rev="1"
+   name="SitPass.h"
+   text-time="2011-08-19T15:54:07.953125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="f607bc008d1a7b1fb9372b571ace53ac"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.906250Z"/>
+<entry
+   committed-rev="3"
+   name="Brain.h"
+   text-time="2011-08-19T15:54:07.968750Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="65650cba874c8fe3b25abed5d90363ad"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.921875Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile_Simple.bak"
+   text-time="2011-08-19T15:54:07.968750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d11d23a9c2326261a85d083f9bbe8609"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.937500Z"/>
+<entry
+   committed-rev="20"
+   name="agentConf.conf"
+   text-time="2011-08-19T15:54:07.984375Z"
+   committed-date="2011-08-19T15:40:46.885183Z"
+   checksum="e86ce5f74605074e3d3c30d145566640"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.937500Z"/>
+<entry
+   committed-rev="1"
+   name="Vision.cpp"
+   text-time="2011-08-19T15:54:08.000000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="522bac4379bb8adba23d8cc4e6679808"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.968750Z"/>
+<entry
+   committed-rev="1"
+   name="MotionKick.cpp"
+   text-time="2011-08-19T15:54:08.015625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="05a1f3f2dba57be72b7df2ebc5473042"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.968750Z"/>
+<entry
+   committed-rev="1"
+   name="CommandQuene.cpp"
+   text-time="2011-08-19T15:54:08.031250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="7200a20949ffec30181888f6bf83f1a5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:00.984375Z"/>
+<entry
+   committed-rev="3"
+   name="WorldModel.h"
+   text-time="2011-08-19T15:54:08.046875Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="1faf7a07dd79faca1f1016fd17cf7784"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Robocup 3D.vcproj.小虫电脑.Robocup.user"
+   text-time="2011-08-19T15:54:08.062500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="46b05feb17546d6a7076ed878cf47cf1"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.000000Z"/>
+<entry
+   committed-rev="3"
+   name="BasicConfigure.cpp"
+   text-time="2011-08-19T15:54:08.078125Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="9c7cbd298a3f7a49bd49202bcb7593f2"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.015625Z"/>
+<entry
+   committed-rev="1"
+   name="JointControl.cpp"
+   text-time="2011-08-19T15:54:08.078125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="fdfc4ec55cdb86c910093dd5c40da60d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.015625Z"/>
+<entry
+   committed-rev="1"
+   name="HandleBall.cpp"
+   text-time="2011-08-19T15:54:08.093750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="5b3b62da38b1b70bfd3312e2889f2b32"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.031250Z"/>
+<entry
+   committed-rev="1"
+   name="stdinc.h"
+   text-time="2011-08-19T15:54:08.109375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="f3f6713f7a396eb37c3f42a8cc329f02"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.046875Z"/>
+<entry
+   committed-rev="3"
+   name="CommandHandle.cpp"
+   text-time="2011-08-19T15:54:08.125000Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="2569ba7765787c638d0dfa14f5adc589"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.046875Z"/>
+<entry
+   committed-rev="1"
+   name="Brain.cpp"
+   text-time="2011-08-19T15:54:08.140625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="a323ff365dd550677e8bafc2572cb4ab"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.062500Z"/>
+<entry
+   committed-rev="1"
+   name="Kinematics.h"
+   text-time="2011-08-19T15:54:08.156250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e25064d390f1b2dc6b11e174568c207d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.062500Z"/>
+<entry
+   committed-rev="1"
+   name="进攻权重说明.txt"
+   text-time="2011-08-19T15:54:08.171875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="debddc54a2dd78514385e4fd2cff1df7"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.078125Z"/>
+<entry
+   committed-rev="3"
+   name="Formation.cpp"
+   text-time="2011-08-19T15:54:08.203125Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="d9372de09b650c7ff58114e2b3bfbe9a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.093750Z"/>
+<entry
+   committed-rev="1"
+   name="ActionKickNew.h"
+   text-time="2011-08-19T15:54:08.203125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="a203d56b84c0701a64aa124727c95e79"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.093750Z"/>
+<entry
+   committed-rev="1"
+   name="Geometry.h"
+   text-time="2011-08-19T15:54:08.218750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d5a2832a6d1a02471706bd943c7572dc"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.109375Z"/>
+<entry
+   committed-rev="1"
+   name="formation.conf"
+   text-time="2011-08-19T15:54:08.250000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="54fb10cbf8bb311ab7b1ee18373ebaa6"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.125000Z"/>
+<entry
+   committed-rev="1"
+   name="MotionPass.h"
+   text-time="2011-08-19T15:54:08.234375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="bfd8aa17928b8e623ad1ff5077929874"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.125000Z"/>
+<entry
+   committed-rev="1"
+   name="Predicate.h"
+   text-time="2011-08-19T15:54:08.265625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="6fe9eee495276d9076f2f98a02bca8c5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.140625Z"/>
+<entry
+   committed-rev="7"
+   name="Dribble.h"
+   text-time="2011-08-19T15:54:08.281250Z"
+   committed-date="2011-08-18T08:36:40.683729Z"
+   checksum="c508d3f7760c718b3bc184fbb00a6788"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.156250Z"/>
+<entry
+   committed-rev="12"
+   name="Motion.h"
+   text-time="2011-08-19T15:54:08.296875Z"
+   committed-date="2011-08-19T06:58:52.737101Z"
+   checksum="6a3cffb8a9026340922ef6448f1c1caa"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.156250Z"/>
+<entry
+   committed-rev="15"
+   name="EnumType.h"
+   text-time="2011-08-19T15:54:08.312500Z"
+   committed-date="2011-08-19T08:20:19.176107Z"
+   checksum="fff5cf0e2f9e29009e579681394ff81b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.171875Z"/>
+<entry
+   committed-rev="13"
+   name="Action.cpp"
+   text-time="2011-08-19T15:54:08.312500Z"
+   committed-date="2011-08-19T08:02:09.718639Z"
+   checksum="256b279777a39a8108c2bacfe1cda2cf"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.203125Z"/>
+<entry
+   committed-rev="1"
+   name="ActionGetUpData.h"
+   text-time="2011-08-19T15:54:08.328125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="b30b2403f59f931a68d3015ab7f287d1"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.234375Z"/>
+<entry
+   committed-rev="1"
+   name="coach.h"
+   text-time="2011-08-19T15:54:08.343750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e081df7c018f9a412afcc4e7726a2b49"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.234375Z"/>
+<entry
+   committed-rev="1"
+   name="Kinematics.cpp"
+   text-time="2011-08-19T15:54:08.359375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ccb4912a380cfad6a6d74967bbd73682"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.250000Z"/>
+<entry
+   committed-rev="1"
+   name="SitDribble.h"
+   text-time="2011-08-19T15:54:08.375000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="3dc92e4f2059f22dc099b5d2f90e4989"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.265625Z"/>
+<entry
+   committed-rev="1"
+   name="MotionDribble.cpp"
+   text-time="2011-08-19T15:54:08.390625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="77248e3939988e5cc45bfbabe7681eb7"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.265625Z"/>
+<entry
+   committed-rev="1"
+   name="Geometry.cpp"
+   text-time="2011-08-19T15:54:08.453125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="8cad87629337a605b6bfb324a396551f"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.296875Z"/>
+<entry
+   committed-rev="1"
+   name="HandleBall.h"
+   text-time="2011-08-19T15:54:08.406250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="73c7e7abceb369e317e3a55b8881f79f"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.281250Z"/>
+<entry
+   committed-rev="3"
+   name="Makefile"
+   text-time="2011-08-19T15:54:08.468750Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="42f60f9ca4a3213515c96c7bbb5083c6"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.406250Z"/>
+<entry
+   committed-rev="1"
+   name="CommandHandle.h"
+   text-time="2011-08-19T15:54:08.484375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="36be35058561288f4a467f24c5fe9345"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.421875Z"/>
+<entry
+   committed-rev="1"
+   name="Say.h"
+   text-time="2011-08-19T15:54:08.515625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="7c5657fbac738b4ee33115bf6654bdda"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.437500Z"/>
+<entry
+   committed-rev="20"
+   name="HumanGoto.cpp"
+   text-time="2011-08-19T15:54:08.500000Z"
+   committed-date="2011-08-19T15:40:46.885183Z"
+   checksum="d019fee42a8298e0f4f5c79e8fdf6387"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.437500Z"/>
+<entry
+   committed-rev="17"
+   name="Dribble.cpp"
+   text-time="2011-08-19T15:54:08.531250Z"
+   committed-date="2011-08-19T09:28:37.310587Z"
+   checksum="bc8d57351a1453020456c8c9c6b0c7bc"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.468750Z"/>
+<entry
+   committed-rev="1"
+   name="Formation.h"
+   text-time="2011-08-19T15:54:08.515625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="82d5808493b42bd95e7ddef816493d87"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.453125Z"/>
+<entry
+   committed-rev="7"
+   name="BasicWalk.h"
+   text-time="2011-08-19T15:54:08.562500Z"
+   committed-date="2011-08-18T08:36:40.683729Z"
+   checksum="384d7dee860d24247b5d7fcc87c06284"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.484375Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile_Simple"
+   text-time="2011-08-19T15:54:08.546875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="077a4ceb89d3a095acf8d73f2aafaf74"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.468750Z"/>
+<entry
+   committed-rev="1"
+   name="AgentInfo.cpp"
+   text-time="2011-08-19T15:54:08.578125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="90c220abe1702b0a7fc4efc52f2b7831"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.500000Z"/>
+<entry
+   committed-rev="20"
+   name="BrainGoalie.cpp"
+   text-time="2011-08-19T15:54:08.593750Z"
+   committed-date="2011-08-19T15:40:46.885183Z"
+   checksum="9ab19c8e3f1ac17e9e9a9fe2ba784120"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.500000Z"/>
+<entry
+   committed-rev="1"
+   name="Start_Game.sh"
+   text-time="2011-08-19T15:54:08.609375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="4ac8dbaec560800b89e2d458295bd0c4"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.515625Z"/>
+<entry
+   committed-rev="1"
+   name="ConfFileRead.cpp"
+   text-time="2011-08-19T15:54:08.625000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ca8a78264a173d1b43a005ff430edbb3"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.531250Z"/>
+<entry
+   committed-rev="13"
+   name="Kick.cpp"
+   text-time="2011-08-19T15:54:08.609375Z"
+   committed-date="2011-08-19T08:02:09.718639Z"
+   checksum="46f872a4573ae4aace635358b42a6373"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.515625Z"/>
+<entry
+   committed-rev="1"
+   name="SitDribble.cpp"
+   text-time="2011-08-19T15:54:08.640625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="f3957453a593a6cd19aec39f9c5d2c64"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.546875Z"/>
+<entry
+   committed-rev="3"
+   name="Start_Test.sh"
+   text-time="2011-08-19T15:54:08.671875Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="3cd28ec1cbd852c7981e872941a88ac6"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.562500Z"/>
+<entry
+   committed-rev="1"
+   name="Logger.h"
+   text-time="2011-08-19T15:54:08.656250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e76ab8bcb6d4ad57c2907da464944e69"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.546875Z"/>
+<entry
+   committed-rev="1"
+   name="ActionTurn.cpp"
+   text-time="2011-08-19T15:54:08.687500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="a99147b146c6d7a2705a6d74bdbed073"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.562500Z"/>
+<entry
+   committed-rev="1"
+   name="Attitude.h"
+   text-time="2011-08-19T15:54:08.687500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="5e6ed0275b7ea840fd06258673b99a68"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.578125Z"/>
+<entry
+   committed-rev="1"
+   name="stdafx.h"
+   text-time="2011-08-19T15:54:08.718750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="16fe6755567cbc2fdc7e38c5c3bfd6d8"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.593750Z"/>
+<entry
+   committed-rev="1"
+   name="RunPosition.h"
+   text-time="2011-08-19T15:54:08.703125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="79b154459fee76873cebe56f42015945"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.593750Z"/>
+<entry
+   committed-rev="1"
+   name="SitKick.cpp"
+   text-time="2011-08-19T15:54:08.734375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e12de99a70fe755f19a2244be85c355f"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.609375Z"/>
+<entry
+   committed-rev="12"
+   name="BrainNormal.cpp"
+   text-time="2011-08-19T15:54:08.765625Z"
+   committed-date="2011-08-19T06:58:52.737101Z"
+   checksum="bf2e49b77d5d67ff69db54c9371cc31b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.625000Z"/>
+<entry
+   committed-rev="1"
+   name="Connection.h"
+   text-time="2011-08-19T15:54:08.750000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="b22d6b73433d085a460fbbaab509168d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.609375Z"/>
+<entry
+   committed-rev="1"
+   name="Communication.cpp"
+   text-time="2011-08-19T15:54:08.781250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e399a04305becd251c0bdf64e17a01a5"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.640625Z"/>
+<entry
+   committed-rev="1"
+   name="WorldModel.cpp"
+   text-time="2011-08-19T15:54:08.781250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="84ddf0db37793025895ed7e218f954e2"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.640625Z"/>
+<entry
+   committed-rev="1"
+   name="Matrix.h"
+   text-time="2011-08-19T15:54:08.796875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="c49eb9c716af6380289972225c8e230c"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.656250Z"/>
+<entry
+   committed-rev="1"
+   name="WorldModelUpdate.cpp"
+   text-time="2011-08-19T15:54:08.812500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="8dfe5e5f62b564bad58a76854126684b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.656250Z"/>
+<entry
+   committed-rev="1"
+   name="AgentInfo.h"
+   text-time="2011-08-19T15:54:08.843750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="4d2ad6b3af5a410f55e100d6d6188433"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.687500Z"/>
+<entry
+   committed-rev="1"
+   name="Logger.cpp"
+   text-time="2011-08-19T15:54:08.828125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="59185d6a0dd7ece6009a1f383bb98047"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.671875Z"/>
+<entry
+   committed-rev="1"
+   name="Attitude.cpp"
+   text-time="2011-08-19T15:54:08.859375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.687500Z"/>
+<entry
+   committed-rev="1"
+   name="main.cpp"
+   text-time="2011-08-19T15:54:08.875000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="2e1ee3ddd2ac290e28cdeb7c064bf05c"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.718750Z"/>
+<entry
+   committed-rev="1"
+   name="FloatMath.h"
+   text-time="2011-08-19T15:54:08.875000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="d35df452e3ff9f4f8ac860dc58e2aa5a"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.703125Z"/>
+<entry
+   committed-rev="3"
+   name="start.sh"
+   text-time="2011-08-19T15:54:08.906250Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="80bc3060472e6d031d79cfe4b9eb19f9"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.734375Z"/>
+<entry
+   committed-rev="1"
+   name="Timer.h"
+   text-time="2011-08-19T15:54:08.890625Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="89f8e1d6944d7e83e57f74ab5d168657"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.718750Z"/>
+<entry
+   committed-rev="1"
+   name="Start_AmoiensisNQ.sh"
+   text-time="2011-08-19T15:54:08.937500Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="2db812b911ce16d7531ff0e17b65cd37"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.750000Z"/>
+<entry
+   committed-rev="1"
+   name="ActionKickPre.h"
+   text-time="2011-08-19T15:54:08.921875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ec2ab3ae5114cc1f154e7d2beb433d95"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.750000Z"/>
+<entry
+   committed-rev="3"
+   name="WorldModelInit.cpp"
+   text-time="2011-08-19T15:54:08.968750Z"
+   committed-date="2011-08-17T11:13:46.638186Z"
+   checksum="8a48cf99e44b3a5e0d8486f3ce290d9b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.765625Z"/>
+<entry
+   committed-rev="1"
+   name="MotionPass.cpp"
+   text-time="2011-08-19T15:54:08.953125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="bd1f29ad138955d22a2b0f211b9902f3"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.765625Z"/>
+<entry
+   committed-rev="1"
+   name="Connection.cpp"
+   text-time="2011-08-19T15:54:08.968750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="fe9956e009f86cfffe7d5608a08187e0"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.781250Z"/>
+<entry
+   committed-rev="1"
+   name="Predicate.cpp"
+   text-time="2011-08-19T15:54:08.984375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="ac550186d02368c02d872fb34a6c6822"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.796875Z"/>
+<entry
+   committed-rev="1"
+   name="Obstacle.h"
+   text-time="2011-08-19T15:54:09.000000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="71cee791a5f9e2503378fd105b5b5417"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.796875Z"/>
+<entry
+   committed-rev="1"
+   name="HumanoidControl.cpp"
+   text-time="2011-08-19T15:54:09.156250Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="b3799ec1e62834c02bad9d2a7705215b"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:01.828125Z"/>
+<entry
+   name="Debug"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="ActionKickData.h"
+   text-time="2011-08-19T15:54:09.171875Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="4a8b4c0d44853515536a50e327ff986d"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.171875Z"/>
+<entry
+   committed-rev="7"
+   name="Action.h"
+   text-time="2011-08-19T15:54:09.187500Z"
+   committed-date="2011-08-18T08:36:40.683729Z"
+   checksum="d28436b8e60246365735ba68b96b6612"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.187500Z"/>
+<entry
+   committed-rev="1"
+   name="kill.sh"
+   text-time="2011-08-19T15:54:09.203125Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="c7af6750e5f317f033269ca33de8aae6"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.203125Z"/>
+<entry
+   committed-rev="1"
+   name="SitUnitSquare.h"
+   text-time="2011-08-19T15:54:09.218750Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="e363fa35db80c722a159a2cc2231ad58"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.203125Z"/>
+<entry
+   committed-rev="1"
+   name="SitRun.h"
+   text-time="2011-08-19T15:54:09.234375Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="463a92969bdb94d3db07ed0bd37636bd"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.218750Z"/>
+<entry
+   committed-rev="1"
+   name="Say.cpp"
+   text-time="2011-08-19T15:54:09.250000Z"
+   committed-date="2011-04-30T13:43:39.921678Z"
+   checksum="c2f1c9d5398b389727b8e2f7f65f660c"
+   last-author="robocup"
+   kind="file"
+   prop-time="2011-08-19T15:54:07.218750Z"/>
+</wc-entries>

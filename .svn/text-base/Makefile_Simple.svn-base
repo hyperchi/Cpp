@@ -1,0 +1,89 @@
+#
+# The compiler and its flags
+#
+CPP= g++ 
+INCLUDE=-I./
+       
+CPPFLAGS=-g -O3 -w $(INCLUDE)
+LIBS=  -lpthread              \
+       -L/usr/local/lib 
+
+#
+# Sources and objects
+#
+srcpath=  .
+workdir=  ../workdir
+
+COMMON= 
+
+PROGRAM= AmoiensisNQ
+
+SRC=\
+    $(srcpath)/ConfFileRead.cpp		\
+    $(srcpath)/BasicConfigure.cpp	\
+    $(srcpath)/Connection.cpp		\
+    $(srcpath)/CommandHandle.cpp	\
+    $(srcpath)/CommandQuene.cpp		\
+    $(srcpath)/Communication.cpp	\
+    $(srcpath)/Predicate.cpp		\
+    $(srcpath)/Matrix.cpp		\
+    $(srcpath)/Geometry.cpp		\
+    $(srcpath)/WorldModel.cpp		\
+    $(srcpath)/WorldModelInit.cpp	\
+    $(srcpath)/WorldModelUpdate.cpp	\
+    $(srcpath)/WorldModelParse.cpp	\
+    $(srcpath)/Situation.cpp	\
+    $(srcpath)/SitUnitSquare.cpp	\
+    $(srcpath)/SitDribble.cpp	\
+    $(srcpath)/SitKick.cpp	\
+    $(srcpath)/SitPass.cpp	\
+    $(srcpath)/SitRun.cpp	\
+    $(srcpath)/Formation.cpp	\
+    $(srcpath)/Attitude.cpp		\
+    $(srcpath)/Logger.cpp		\
+    $(srcpath)/Timer.cpp		\
+    $(srcpath)/JointControl.cpp	\
+    $(srcpath)/Action.cpp		\
+    $(srcpath)/HumanoidControl.cpp	\
+    $(srcpath)/BasicWalk.cpp	\
+    $(srcpath)/Kinematics.cpp	\
+    $(srcpath)/Dribble.cpp		\
+    $(srcpath)/Kick.cpp			\
+    $(srcpath)/ActionTurn.cpp	\
+    $(srcpath)/ActionTrans.cpp	\
+    $(srcpath)/Motion.cpp		\
+    $(srcpath)/MotionGoto.cpp	\
+    $(srcpath)/SmartGoto.cpp	\
+    $(srcpath)/MotionDribble.cpp	\
+    $(srcpath)/MotionKick.cpp	\
+    $(srcpath)/MotionPass.cpp	\
+    $(srcpath)/HumanGoto.cpp	\
+	$(srcpath)/Obstacle.cpp		\
+    $(srcpath)/HandleBall.cpp	\
+    $(srcpath)/RunPosition.cpp	\
+    $(srcpath)/Brain.cpp		\
+    $(srcpath)/BrainGoalie.cpp	\
+    $(srcpath)/BrainNormal.cpp	\
+    $(srcpath)/coach.cpp		\
+    $(srcpath)/Vision.cpp		\
+	$(srcpath)/Hear.cpp			\
+	$(srcpath)/Say.cpp			\
+    $(srcpath)/AgentInfo.cpp	\
+    $(srcpath)/Agent.cpp		\
+    $(srcpath)/main.cpp
+    
+
+OBJ=$(SRC:.cpp=.o)
+
+all : $(PROGRAM)
+
+$(PROGRAM): $(OBJ)
+	$(CPP) $(CPPFLAGS) -o $@ $(OBJ) $(LIBS)
+
+clean:
+	@echo "Removing objects..."
+	rm -f $(PROGRAMS) *.o *~ core 
+
+install: $(PROGRAM)
+	cp -f $(PROGRAM) $(workdir)/
+

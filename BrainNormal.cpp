@@ -1,0 +1,106 @@
+#include "Brain.h"
+#define B_NormalLog gLog<< "[normal] " 
+#define PeocessingLog gProcessingLog<<"[normal] "
+void Brain::ThinkNormal()
+{
+	static bool ifThinkPrepared = false;
+		// ËÀÇò×´Ì¬
+	if( ( mWorldModel->mPlayMode == PM_KICK_OFF_LEFT && mWorldModel->mTeamSide == SD_RIGHT )
+		|| ( mWorldModel->mPlayMode == PM_KICK_OFF_RIGHT && mWorldModel->mTeamSide == SD_LEFT )
+		|| mWorldModel->mPlayMode == PM_KICK_IN_LEFT 
+		|| mWorldModel->mPlayMode == PM_KICK_IN_RIGHT
+		|| mWorldModel->mPlayMode == PM_CORNER_KICK_LEFT
+		|| mWorldModel->mPlayMode == PM_CORNER_KICK_RIGHT
+		|| mWorldModel->mPlayMode == PM_GOAL_KICK_LEFT
+		|| mWorldModel->mPlayMode == PM_GOAL_KICK_RIGHT
+		)
+	{
+		PeocessingLog<<"domMotion deadball"<<endl;
+		mMotion->DoMotion( MT_DeadBallStand );
+		
+
+		return;
+	}	
+
+	//if( (mWorldModel->mPlayMode == PM_KICK_OFF_LEFT && /*mWorldModel->mGameTime < 20.0f &&*/ mWorldModel->mTeamSide == SD_LEFT) 
+	//	|| (mWorldModel->mPlayMode == PM_KICK_OFF_RIGHT && /*mWorldModel->mGameTime < 320.0f && mWorldModel->mGameTime > 300.0f &&*/ mWorldModel->mTeamSide == SD_RIGHT) )
+	//{
+	//	ThinkInitialStrategy();
+	//	return;
+	//}
+
+   
+
+	BasicStrategy basicStrategy = mSituation->GetBasicStrategy();
+
+	
+	
+	
+		//BasicStrategy basicStrategy = BSD_Intercept;
+		switch ( basicStrategy )
+		{
+		case BSA_Dribble:
+		case BSA_Pass:
+		case BSA_Shoot:
+		case BSA_RunPosition:
+			ThinkNormalAttack( basicStrategy );
+			break;
+
+		case BSD_Intercept:
+		case BSD_ClearBall:
+		case BSD_Block:
+			ThinkNormalDefense( basicStrategy );
+			break;
+
+		default:
+			ThinkNormalAttack( basicStrategy );
+			break;
+		}	
+	
+}
+void Brain::ThinkNormalAttack( BasicStrategy basicStrategy )
+{
+	B_NormalLog << "ThinkNormalAttack " << basicStrategy << endl;
+	
+	if( basicStrategy == BSA_Dribble )
+	{
+		mMotion->DoMotion( MT_Dribble );
+	}
+	else if( basicStrategy == BSA_RunPosition )
+	{
+		
+		mMotion->DoMotion( MT_RunPosition );
+		
+	}
+	else if( basicStrategy == BSA_Shoot )
+	{
+		
+		mMotion->DoMotion( MT_Shoot );
+		
+	}
+}
+void Brain::ThinkNormalDefense( BasicStrategy basicStrategy )
+{
+	B_NormalLog << "ThinkNormalDefense " << basicStrategy << endl;
+
+	if( basicStrategy == BSD_Intercept )
+	{
+		mMotion->DoMotion( MT_Intercept );
+	}
+	else if( basicStrategy == BSD_ClearBall )
+	{
+		mMotion->DoMotion( MT_ClearBall );
+	}
+	else if(basicStrategy ==BSA_RunPosition)
+	{
+		mMotion->DoMotion( MT_RunPosition );
+	}
+	else
+	{
+		mMotion->DoMotion( MT_StandPosition );
+	}
+}
+void Brain::ThinkInitialStrategy()
+{
+	mMotion->DoMotion( MT_InitStrategy );
+}
